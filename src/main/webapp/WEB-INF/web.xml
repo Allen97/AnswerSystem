@@ -4,4 +4,8 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+    <filter>
+        <filter-name>TestFilter</filter-name>
+        <filter-class>com.iss.filter.TestFilter</filter-class>
+    </filter>
 </web-app>
